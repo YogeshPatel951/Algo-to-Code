@@ -1,0 +1,2 @@
+print printf("identi",variable);
+input scanf("identi",&variable);

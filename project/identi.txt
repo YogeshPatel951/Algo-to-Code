@@ -1,0 +1,4 @@
+int %d
+string %s
+char %s
+float %f

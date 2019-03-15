@@ -1,0 +1,6 @@
+while then
+for then
+do this
+endwhile none
+endfor none
+

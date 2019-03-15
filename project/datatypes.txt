@@ -1,0 +1,3 @@
+integer int
+string string
+char char
